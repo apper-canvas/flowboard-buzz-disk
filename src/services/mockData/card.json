@@ -1,0 +1,160 @@
+[
+  {
+    "id": "1",
+    "title": "Implement user authentication system",
+    "description": "Set up JWT-based authentication with refresh tokens and secure session management",
+    "columnId": "2",
+    "dueDate": "2024-01-15T00:00:00Z",
+    "labels": [
+      {"name": "Backend", "color": "#6366F1"},
+      {"name": "High Priority", "color": "#EF4444"}
+    ],
+    "assignees": ["1", "2"],
+    "position": 0
+  },
+  {
+    "id": "2",
+    "title": "Design mobile app wireframes",
+    "description": "Create low-fidelity wireframes for the main user flows in the mobile application",
+    "columnId": "1",
+    "dueDate": "2024-01-18T00:00:00Z",
+    "labels": [
+      {"name": "Design", "color": "#10B981"},
+      {"name": "UX", "color": "#F59E0B"}
+    ],
+    "assignees": ["3"],
+    "position": 0
+  },
+  {
+    "id": "3",
+    "title": "Set up CI/CD pipeline",
+    "description": "Configure automated testing and deployment pipeline using GitHub Actions",
+    "columnId": "3",
+    "dueDate": "2024-01-12T00:00:00Z",
+    "labels": [
+      {"name": "DevOps", "color": "#8B5CF6"},
+      {"name": "Infrastructure", "color": "#06B6D4"}
+    ],
+    "assignees": ["4", "5"],
+    "position": 0
+  },
+  {
+    "id": "4",
+    "title": "API documentation update",
+    "description": "Update Swagger documentation for all new endpoints and authentication flows",
+    "columnId": "2",
+    "dueDate": "2024-01-20T00:00:00Z",
+    "labels": [
+      {"name": "Documentation", "color": "#84CC16"},
+      {"name": "API", "color": "#6366F1"}
+    ],
+    "assignees": ["2"],
+    "position": 1
+  },
+  {
+    "id": "5",
+    "title": "User dashboard redesign",
+    "description": "Implement new dashboard layout with improved data visualization and user engagement metrics",
+    "columnId": "1",
+    "dueDate": "2024-01-25T00:00:00Z",
+    "labels": [
+      {"name": "Frontend", "color": "#EC4899"},
+      {"name": "UI/UX", "color": "#10B981"}
+    ],
+    "assignees": ["1", "3"],
+    "position": 1
+  },
+  {
+    "id": "6",
+    "title": "Database performance optimization",
+    "description": "Analyze and optimize slow queries, implement proper indexing strategies",
+    "columnId": "2",
+    "dueDate": "2024-01-14T00:00:00Z",
+    "labels": [
+      {"name": "Database", "color": "#F97316"},
+      {"name": "Performance", "color": "#EF4444"}
+    ],
+    "assignees": ["4"],
+    "position": 2
+  },
+  {
+    "id": "7",
+    "title": "Email notification system",
+    "description": "Implement transactional email system with templates and delivery tracking",
+    "columnId": "1",
+    "dueDate": "2024-01-22T00:00:00Z",
+    "labels": [
+      {"name": "Backend", "color": "#6366F1"},
+      {"name": "Feature", "color": "#10B981"}
+    ],
+    "assignees": ["5"],
+    "position": 2
+  },
+  {
+    "id": "8",
+    "title": "Mobile app testing",
+    "description": "Comprehensive testing of mobile application across different devices and operating systems",
+    "columnId": "3",
+    "dueDate": "2024-01-16T00:00:00Z",
+    "labels": [
+      {"name": "Testing", "color": "#8B5CF6"},
+      {"name": "Mobile", "color": "#06B6D4"}
+    ],
+    "assignees": ["2", "3"],
+    "position": 1
+  },
+  {
+    "id": "9",
+    "title": "Security audit and penetration testing",
+    "description": "Conduct thorough security assessment and fix identified vulnerabilities",
+    "columnId": "1",
+    "dueDate": "2024-01-30T00:00:00Z",
+    "labels": [
+      {"name": "Security", "color": "#EF4444"},
+      {"name": "Critical", "color": "#DC2626"}
+    ],
+    "assignees": ["4", "5"],
+    "position": 3
+  },
+  {
+    "id": "10",
+    "title": "Customer feedback integration",
+    "description": "Implement in-app feedback collection system with analytics dashboard",
+    "columnId": "4",
+    "dueDate": "2024-01-08T00:00:00Z",
+    "labels": [
+      {"name": "Feature", "color": "#10B981"},
+      {"name": "Analytics", "color": "#F59E0B"}
+    ],
+    "assignees": ["1"],
+    "position": 0
+  },
+  {
+    "id": "11",
+    "title": "Payment gateway integration",
+    "description": "Integrate Stripe payment processing with subscription management and billing",
+    "columnId": "2",
+    "dueDate": "2024-01-28T00:00:00Z",
+    "labels": [
+      {"name": "Backend", "color": "#6366F1"},
+      {"name": "Payments", "color": "#84CC16"},
+      {"name": "High Priority", "color": "#EF4444"}
+    ],
+    "assignees": ["2", "4"],
+    "position": 3
+  },
+  {
+    "id": "12",
+    "title": "Real-time collaboration features",
+    "description": "Implement WebSocket-based real-time editing and presence indicators",
+    "columnId": "1",
+    "dueDate": "2024-02-05T00:00:00Z",
+    "labels": [
+      {"name": "Frontend", "color": "#EC4899"},
+      {"name": "Real-time", "color": "#06B6D4"},
+      {"name": "Feature", "color": "#10B981"}
+    ],
+    "assignees": ["1", "3", "5"],
+    "position": 4
+  }
+]

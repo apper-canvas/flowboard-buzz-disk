@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Backlog",
+    "position": 0,
+    "boardId": "1"
+  },
+  {
+    "id": "2",
+    "title": "In Progress",
+    "position": 1,
+    "boardId": "1"
+  },
+  {
+    "id": "3",
+    "title": "Review",
+    "position": 2,
+    "boardId": "1"
+  },
+  {
+    "id": "4",
+    "title": "Done",
+    "position": 3,
+    "boardId": "1"
+  },
+  {
+    "id": "5",
+    "title": "Ideas",
+    "position": 0,
+    "boardId": "2"
+  },
+  {
+    "id": "6",
+    "title": "In Development",
+    "position": 1,
+    "boardId": "2"
+  },
+  {
+    "id": "7",
+    "title": "Live",
+    "position": 2,
+    "boardId": "2"
+  },
+  {
+    "id": "8",
+    "title": "Research",
+    "position": 0,
+    "boardId": "3"
+  },
+  {
+    "id": "9",
+    "title": "Design",
+    "position": 1,
+    "boardId": "3"
+  },
+  {
+    "id": "10",
+    "title": "Development",
+    "position": 2,
+    "boardId": "3"
+  },
+  {
+    "id": "11",
+    "title": "Planning",
+    "position": 0,
+    "boardId": "4"
+  },
+  {
+    "id": "12",
+    "title": "Active",
+    "position": 1,
+    "boardId": "4"
+  },
+  {
+    "id": "13",
+    "title": "Testing",
+    "position": 2,
+    "boardId": "4"
+  },
+  {
+    "id": "14",
+    "title": "To Do",
+    "position": 0,
+    "boardId": "5"
+  },
+  {
+    "id": "15",
+    "title": "Doing",
+    "position": 1,
+    "boardId": "5"
+  },
+  {
+    "id": "16",
+    "title": "Complete",
+    "position": 2,
+    "boardId": "5"
+  }
+]
