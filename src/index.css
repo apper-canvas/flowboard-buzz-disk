@@ -4,11 +4,12 @@
 
 @layer base {
   * {
-    @apply border-border;
+    box-sizing: border-box;
+    border-color: theme('colors.border');
   }
   
   body {
-    @apply bg-background text-foreground font-sans antialiased;
+    @apply bg-white text-slate-900 font-sans antialiased;
     font-feature-settings: "rlig" 1, "calt" 1;
   }
 
